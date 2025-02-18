@@ -1,6 +1,6 @@
-[한국어](https://github.com/FTIndustries/lithium-ion-protector/blob/main/readme-ko.md)
-# FTIndustries Lithium-ion battery protector
-![preview](https://github.com/FTIndustries/lithium-ion-protector/blob/main/3dpreview.png?raw=true)\
+[한국어](https://github.com/TinkeringBase/lithium-ion-protector/blob/main/readme-ko.md)
+# TinkeringBase Lithium-ion battery protector
+![preview](https://github.com/TinkeringBase/lithium-ion-protector/blob/main/3dpreview.png?raw=true)\
 Lithium Ion battery protector circuit board based on DW01 and MOSFET.
 It uses two dual MOSFET instead of one, decreasing resistance.
 ## Specification
